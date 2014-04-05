@@ -6,6 +6,8 @@ Unity（無償版）でつくられたソフトです。
 == 動作環境 ==
 
 Windowsマシン（Win7 32/64 bitで確認）
+または
+Mac OSXマシン（OSX 10.9.1 64bitで確認）
 
 
 == ダウンロード ==
@@ -14,7 +16,7 @@ Windowsマシン（Win7 32/64 bitで確認）
 
 http://github.com/handman-tk/fujiko
 
-2. tk-fujiko.zipをクリックします。
+2. Windowsの場合はtk-fujiko_win32.zip、Mac OSXの場合はtk-fujiko.app.zipをクリックします。
 
 3. 「Raw」ボタン、または画面中央に表示される「View Raw」をクリックすると、ダウンロードが開始されます。
 
@@ -23,14 +25,14 @@ http://github.com/handman-tk/fujiko
 
 == 起動 ==
 
-1. 解凍してできた「tk-fujiko.exe」をダブルクリックします。
+1. 解凍してできたtk-fujiko.exe (Windowsの場合)またはtk-fujiko.app (Mac OSXの場合)をダブルクリックします。
 
 2. 最初に、開くウィンドウの大きさを選択してください。
 
 3. 「Play!」ボタンをクリックすると起動します。
 
 
-== 使い方 ==
+== 操作方法 ==
 
 ・マウス右でドラッグ：　見る角度を変更します。
 
@@ -40,6 +42,7 @@ http://github.com/handman-tk/fujiko
 
 ・スペースキー：　マシンをスタートさせます。一回押すと「用意！」、二回目で「スタート」です。
 
+※Mac OSXの場合は、右クリックボタンとホイールのついたマウスをご利用ください。
 
 == ご愛敬な点 ==
 
